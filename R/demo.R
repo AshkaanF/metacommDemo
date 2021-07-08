@@ -1,7 +1,6 @@
 ## ---
 ## initialize
 ## ---
-# source('./R/tl_func.R')
 set.seed(777)
 
 ## load libs
